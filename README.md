@@ -13,8 +13,6 @@ https://user-images.githubusercontent.com/105954741/177994146-1de2a374-09e0-41dc
 
 
 
-
-
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/H4S49007"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=H4S49007&theme=monokai"></a>
 </p>
@@ -28,3 +26,10 @@ https://user-images.githubusercontent.com/105954741/177994146-1de2a374-09e0-41dc
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+
+[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=h4s49007&theme=react-dark&area=true&hide_border=true)](https://github.com/h4s49007/github-readme-activity-graph)
+
+<a href="https://github.com/H4S49007/t-logo"><img title="t-logo" src="https://github-readme-stats.vercel.app/api/pin/?username=H4s49007&repo=t-logo&theme=gotham"></a>
+<a href="https://github.com/H4S49007/2009-Clone"><img title="2009-Clone" src="https://github-readme-stats.vercel.app/api/pin/?username=H4s49007&repo=2009-Clone&theme=gotham"></a>
+
